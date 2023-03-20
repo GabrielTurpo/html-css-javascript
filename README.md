@@ -1,1 +1,1 @@
-# html-css-javasrcrip
+# html-css-javascript
